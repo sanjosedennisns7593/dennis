@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name":"Dennis San Jose",
+    "occupation":"Web Developer",
+    "description":"A motivated web developer who love improving his craft from time to time to get stay updated with the latest technology.",
+    "image":"profilepic.jpg",
+    "bio":"A motivated web developer who love improving his craft from time to time to get stay updated with the latest technology.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "sanjosedennis7593@gmail.com",
+    "phone": "+639056913316",
+    "address":{
+      "street":"Morales st, Lolomboy",
+      "city":"Bocaue",
+      "state":"Bulacan",
+      "zip": "3018"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/sanjosedennis7593",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/dennis-san-jose-601675128/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Tertiary",
+        "degree":"Bachelor of Science in Information Technology",
+        "graduated":"April 2016",
+        "description":"Develop a capstone project entitled 'Marilenews Mobile App', A mobile application which helps our municipalities to disseminate information easily in real time. The application features show the latest news, traffic update, weather forecast, job posting, events and any other related information provided by our municipalities.  "
+      }
+    ],
+    "work":[
+      {
+        "company":"Narrasoft Corporation",
+        "title":"Software Engineer ",
+        "years":"February 2018 - Present",
+        "description":"Worked on a web tool of a game that is built to react. Responsible for fixing reported issue and feature request on JIRA, and doing code review committed by other developers. "
+      },
+      {
+        "company":"MPH International",
+        "title":"Software Engineer",
+        "years":"February 2017 - November 2017",
+        "description":"Worked on a social networking site that cater a specific audience. Handle the development of the project, including the database design and release notes for the deployment to production. Participate in a weekly meeting with our head to demonstrate the update of the application."
+      },
+      {
+        "company":"Volenday",
+        "title":"Full Stack Developer",
+        "years":"June 2016 - February 2017",
+        "description": "Handle different kind of internal and external project which was built using some of the latest tech stack in the web development. Participate on a scrum meeting to discuss the project manager about the status of the project. Responsible for the development and deployment of the project."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"MySQL",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      },
+      {
+        "name":"Node.JS",
+        "level":"70%"
+      },
+      {
+        "name":"Laravel",
+        "level":"60%"
+      },
+      {
+        "name":"Angular 1",
+        "level":"45%"
+      },
+      {
+        "name":"Ionic",
+        "level":"40%"
+      },
+      {
+        "name":"Serverless Stack",
+        "level":"40%"
+      },
+      {
+        "name":"GraphQL",
+        "level":"30%"
+      },
+      {
+        "name":"Docker",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
